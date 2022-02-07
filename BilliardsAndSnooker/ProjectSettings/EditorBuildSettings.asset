@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Lobby.unity
+    guid: 3e75f001e9c305d44876fb6b7c574d5c
+  - enabled: 1
+    path: Assets/Scenes/Billiards.unity
+    guid: a7e7f5cd0f87a2e47a44ab36f6d79e02
+  - enabled: 1
+    path: Assets/Scenes/Snooker.unity
+    guid: e85efc46007935147bb455f186952f3c
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 697da1e453643cd439510101bf192dab, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 48910f9ec54500542bed48b1bb197d97, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 158391bd837bc0f49a0847e5b4d649bd, type: 2}
